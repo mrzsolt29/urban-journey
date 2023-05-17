@@ -1,2 +1,2 @@
-# urban-journey
-My first repo...
+*My linux scripts*
+and git practice
