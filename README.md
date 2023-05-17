@@ -1,2 +1,2 @@
-#My linux scripts
+# My linux scripts
 and git practice
